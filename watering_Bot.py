@@ -165,7 +165,7 @@ def main():
         CallbackQueryHandler(main_area_selection, pattern="main")
     )
     
-    requests.post('https://api.telegram.org/bot' + TOKEN + '/sendMessage', {'chat_id': CHAT_ID, 'text': '[Bot disponible]'})
+    requests.post('https://api.telegram.org/bot' + TOKEN + '/sendMessage', {'chat_id': CHAT_ID, 'text': '[Bot available]'})
 
     # Start the Bot/Listen for user input/messages
     updater.start_polling()
