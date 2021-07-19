@@ -1,5 +1,7 @@
 # IoT Watering System for Plants
 
+The full post is publihed in my personal blog: https://www.javieralonso.io/2021/07/19/iot-automatic-irrigation-system-for-plants-solar-powered/
+
 My tomato plants need water every day. Before leaving my home for holidays, I decided to create a full autonomous (energy and watering) system for watering my plants.
 
 I don't have a water supply near my plants, so I use a 16L plastic box as water tank. I have enough water for about 10 days.
