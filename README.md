@@ -17,3 +17,5 @@ The system is powered by solar panels and batteries. In the picture below you ca
 
 ![imagen](https://user-images.githubusercontent.com/31996659/126088179-99f348ad-e5d3-412f-a7e5-54064362b474.png)
 
+![imagen](https://user-images.githubusercontent.com/31996659/126088195-83f5d503-b729-4e6f-81eb-d24feb476c96.png)
+
