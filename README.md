@@ -1,5 +1,8 @@
 # IoT Watering System for Plants
 
+![imagen](https://user-images.githubusercontent.com/31996659/126482261-208e4d1d-0da2-4db1-a3c2-a3fb113cca58.png)
+
+
 The full post is published in my personal blog: https://www.javieralonso.io/2021/07/19/iot-watering-plants/
 
 My tomato plants need water every day. Before leaving my home for holidays, I decided to create a full autonomous (energy and watering) system for watering my plants.
