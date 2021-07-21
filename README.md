@@ -1,7 +1,6 @@
 # IoT Watering System for Plants
 
-![imagen](https://user-images.githubusercontent.com/31996659/126482261-208e4d1d-0da2-4db1-a3c2-a3fb113cca58.png)
-
+<img src="https://user-images.githubusercontent.com/31996659/126482261-208e4d1d-0da2-4db1-a3c2-a3fb113cca58.png" width="650" height="650">
 
 The full post is published in my personal blog: https://www.javieralonso.io/2021/07/19/iot-watering-plants/
 
